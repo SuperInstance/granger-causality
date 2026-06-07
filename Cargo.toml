@@ -1,0 +1,11 @@
+[package]
+name = "granger-causality"
+version = "0.1.0"
+edition = "2021"
+description = "Granger causality testing with vector autoregression, lag selection via AIC/BIC, and impulse response analysis"
+license = "MIT"
+repository = "https://github.com/SuperInstance/granger-causality"
+keywords = ["granger-causality", "var", "time-series", "econometrics", "math"]
+categories = ["mathematics", "algorithms", "science"]
+
+[dependencies]
